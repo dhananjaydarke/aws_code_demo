@@ -1,0 +1,11 @@
+{
+  "name": "students-db-poller",
+  "version": "1.0.0",
+  "main": "poll-students.js",
+  "scripts": {
+    "start": "node poll-students.js"
+  },
+  "dependencies": {
+    "mssql": "^10.0.0"
+  }
+}

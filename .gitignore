@@ -1,5 +1,6 @@
 # Local .terraform directories
 .terraform/
+node_modules/
 
 # .tfstate files
 *.tfstate
@@ -35,3 +36,4 @@ override.tf.json
 # Ignore CLI configuration files
 .terraformrc
 terraform.rc
+package-lock.json
